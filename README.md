@@ -6,6 +6,7 @@
 
 # Index
 
-| Sl.No | Index                                            |
-| :---: | :----------------------------------------------- |
-|  1.   | [Basic Statistics](./Basic_Statistics/README.md) |
+| Sl.No | Index                                                          |
+| :---: | :------------------------------------------------------------- |
+|  1.   | [Basic Statistics](./Basic_Statistics/README.md)               |
+|  1.   | [Intermediate Statistics](./Intermediate_Statistics/README.md) |
